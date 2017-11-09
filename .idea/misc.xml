@@ -9,6 +9,8 @@
         <option value="$PROJECT_DIR$/chapter_2/service-ribbon/pom.xml" />
         <option value="$PROJECT_DIR$/chapter_2/serice-feign/pom.xml" />
         <option value="$PROJECT_DIR$/chapter_2/service-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter_3/cloud_config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter_3/cloud_config-client/pom.xml" />
       </list>
     </option>
   </component>

@@ -8,7 +8,10 @@
         <outputRelativeToContentRoot value="true" />
         <module name="chapter_1" />
         <module name="chapter_2" />
+        <module name="chapter_3" />
         <module name="cloud_client" />
+        <module name="cloud_config-client" />
+        <module name="cloud_config-server" />
         <module name="cloud_server" />
         <module name="serice-feign" />
         <module name="service-ribbon" />
@@ -18,7 +21,10 @@
     <bytecodeTargetLevel>
       <module name="chapter_1" target="1.5" />
       <module name="chapter_2" target="1.5" />
+      <module name="chapter_3" target="1.5" />
       <module name="cloud_client" target="1.8" />
+      <module name="cloud_config-client" target="1.8" />
+      <module name="cloud_config-server" target="1.8" />
       <module name="cloud_server" target="1.8" />
       <module name="serice-feign" target="1.8" />
       <module name="service-ribbon" target="1.8" />
