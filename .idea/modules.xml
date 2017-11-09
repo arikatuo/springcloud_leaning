@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/chapter_1/chapter_1.iml" filepath="$PROJECT_DIR$/chapter_1/chapter_1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/chapter_1/cloud_client/cloud_client.iml" filepath="$PROJECT_DIR$/chapter_1/cloud_client/cloud_client.iml" />
-      <module fileurl="file://$PROJECT_DIR$/chapter_1/cloud_server/cloud_server.iml" filepath="$PROJECT_DIR$/chapter_1/cloud_server/cloud_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_2/chapter_2.iml" filepath="$PROJECT_DIR$/chapter_2/chapter_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_2/cloud_client/cloud_client.iml" filepath="$PROJECT_DIR$/chapter_2/cloud_client/cloud_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_2/cloud_server/cloud_server.iml" filepath="$PROJECT_DIR$/chapter_2/cloud_server/cloud_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_2/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/chapter_2/service-ribbon/service-ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud_leaning.iml" filepath="$PROJECT_DIR$/springcloud_leaning.iml" />
     </modules>
   </component>

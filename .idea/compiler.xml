@@ -7,14 +7,18 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="chapter_1" />
+        <module name="chapter_2" />
         <module name="cloud_client" />
         <module name="cloud_server" />
+        <module name="service-ribbon" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="chapter_1" target="1.5" />
+      <module name="chapter_2" target="1.5" />
       <module name="cloud_client" target="1.8" />
       <module name="cloud_server" target="1.8" />
+      <module name="service-ribbon" target="1.8" />
       <module name="springcloud_leaning" target="1.5" />
     </bytecodeTargetLevel>
   </component>
