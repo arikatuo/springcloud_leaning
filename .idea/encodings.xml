@@ -15,5 +15,6 @@
     <file url="file://$PROJECT_DIR$/chapter_3" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/chapter_3/cloud_config-client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/chapter_3/cloud_config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter_3/eureka-server" charset="UTF-8" />
   </component>
 </project>

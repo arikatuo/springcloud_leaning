@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/chapter_3/cloud_config-client/cloud_config-client.iml" filepath="$PROJECT_DIR$/chapter_3/cloud_config-client/cloud_config-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter_3/cloud_config-server/cloud_config-server.iml" filepath="$PROJECT_DIR$/chapter_3/cloud_config-server/cloud_config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter_2/cloud_server/cloud_server.iml" filepath="$PROJECT_DIR$/chapter_2/cloud_server/cloud_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_3/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/chapter_3/eureka-server/eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter_2/serice-feign/serice-feign.iml" filepath="$PROJECT_DIR$/chapter_2/serice-feign/serice-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter_2/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/chapter_2/service-ribbon/service-ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter_2/service-zuul/service-zuul.iml" filepath="$PROJECT_DIR$/chapter_2/service-zuul/service-zuul.iml" />
