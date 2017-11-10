@@ -5,12 +5,16 @@
       <module fileurl="file://$PROJECT_DIR$/chapter_1/chapter_1.iml" filepath="$PROJECT_DIR$/chapter_1/chapter_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter_2/chapter_2.iml" filepath="$PROJECT_DIR$/chapter_2/chapter_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter_3/chapter_3.iml" filepath="$PROJECT_DIR$/chapter_3/chapter_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/charpter_4/charpter_4.iml" filepath="$PROJECT_DIR$/charpter_4/charpter_4.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter_2/cloud_client/cloud_client.iml" filepath="$PROJECT_DIR$/chapter_2/cloud_client/cloud_client.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter_3/cloud_config-client/cloud_config-client.iml" filepath="$PROJECT_DIR$/chapter_3/cloud_config-client/cloud_config-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter_3/cloud_config-server/cloud_config-server.iml" filepath="$PROJECT_DIR$/chapter_3/cloud_config-server/cloud_config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter_2/cloud_server/cloud_server.iml" filepath="$PROJECT_DIR$/chapter_2/cloud_server/cloud_server.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter_3/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/chapter_3/eureka-server/eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter_2/serice-feign/serice-feign.iml" filepath="$PROJECT_DIR$/chapter_2/serice-feign/serice-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/charpter_4/server-zipkin/server-zipkin.iml" filepath="$PROJECT_DIR$/charpter_4/server-zipkin/server-zipkin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/charpter_4/service-hi/service-hi.iml" filepath="$PROJECT_DIR$/charpter_4/service-hi/service-hi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/charpter_4/service-miya/service-miya.iml" filepath="$PROJECT_DIR$/charpter_4/service-miya/service-miya.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter_2/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/chapter_2/service-ribbon/service-ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter_2/service-zuul/service-zuul.iml" filepath="$PROJECT_DIR$/chapter_2/service-zuul/service-zuul.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud_leaning.iml" filepath="$PROJECT_DIR$/springcloud_leaning.iml" />

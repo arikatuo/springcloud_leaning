@@ -12,6 +12,9 @@
         <option value="$PROJECT_DIR$/chapter_3/cloud_config-server/pom.xml" />
         <option value="$PROJECT_DIR$/chapter_3/cloud_config-client/pom.xml" />
         <option value="$PROJECT_DIR$/chapter_3/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/charpter_4/server-zipkin/pom.xml" />
+        <option value="$PROJECT_DIR$/charpter_4/service-hi/pom.xml" />
+        <option value="$PROJECT_DIR$/charpter_4/service-miya/pom.xml" />
       </list>
     </option>
   </component>
